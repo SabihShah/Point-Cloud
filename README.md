@@ -20,3 +20,8 @@ python main.py --rgb_path 'path to rgb image' --load_ckpt res101.pth --smooth --
 for generating a point cloud and smoothing using KNN and keypoints
 
 *Remove the --use_keypoints and --keypoint_weight arguments to use **RANSAC** for outlier detection and removal*
+
+Add output directory argument to save the results
+
+
+Other arguments can be set such as camera's intrinsic parameters if known for better results

@@ -5,6 +5,12 @@
 
 **SuperPoint**: https://github.com/SabihShah/Point-Cloud/blob/main/superpoint_v1.pth
 
+Install dependencies
+
+```
+pip install -r requirements.txt
+```
+
 
 ### Inference:
 run

@@ -1,0 +1,8 @@
+numpy
+opencv-python
+matplotlib
+open3d
+torch
+torchvision
+torchaudio
+scikit-learn

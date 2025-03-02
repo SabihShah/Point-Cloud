@@ -25,3 +25,5 @@ Add output directory argument to save the results
 
 
 Other arguments can be set such as camera's intrinsic parameters if known for better results
+
+Hyperparameters can be changed for experimentation inside the model definition

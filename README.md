@@ -3,7 +3,7 @@
 This repository implements a complete pipeline for generating high-quality 3D point clouds from single RGB images using state-of-the-art deep learning techniques. The system combines monocular depth estimation, keypoint detection, and advanced smoothing algorithms to produce accurate 3D reconstructions.
 
 <div align="center">
-<img src="images/Picture1.png" alt="Methodology" width="300" />
+<img src="images/Picture1.png" alt="Methodology" width="500" />
 </div>
 
 ### 🔥 Features
